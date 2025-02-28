@@ -9,7 +9,7 @@ Industrial fault detection powered by ​**GLM-4-9B**​ model and ​**Dify**�
 
 ### Essential References
 - ​**Dify Platform**: [https://github.com/langgenius/dify](https://github.com/langgenius/dify)
-- ​**GLM-4-9B Model**: [https://github.com/THUDM/GLM-4](https://github.com/THUDM/GLM-4)
+- ​**GLM-4-9B-chat Model**: [https://github.com/THUDM/GLM-4](https://github.com/THUDM/GLM-4)
 - ​**Fault Detection Workflow**: `fault_detection.yml` (Core configuration)
 - ​**Python Environment**: Python 3.11 and `requirements.txt` (use cmd 'pip install -r requirements.txt' to install)
 
