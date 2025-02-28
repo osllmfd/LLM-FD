@@ -11,7 +11,7 @@ Industrial fault detection powered by ​**GLM-4-9B**​ model and ​**Dify**�
 - ​**Dify Platform**: [https://github.com/langgenius/dify](https://github.com/langgenius/dify)
 - ​**GLM-4-9B-chat Model**: [https://github.com/THUDM/GLM-4](https://github.com/THUDM/GLM-4)
 - ​**Fault Detection Workflow**: `fault_detection.yml` (Core configuration)
-- ​**Python Environment**: Python 3.11 and `requirements.txt` (use cmd 'pip install -r requirements.txt' to install)
+- ​**Python Environment**: Python 3.11 and `requirements.txt` (use cmd ```pip install -r requirements.txt``` to install)
 
 ## 🚀 Quick Start
 
@@ -23,9 +23,9 @@ get your dify's api_key: [Access API Reference](https://docs.dify.ai/guides/work
 ### 2. Start GLM Http Serve
 download **[GLM-4-9B-chat](https://github.com/THUDM/GLM-4)** model file to `./models/glm/`
 
-python run_glm_http_serve.py
+```python run_glm_http_serve.py```
 
 ### 3. Fault Detection
 use your dify's api_key in `run_fd.py`
   
-'python run_fd.py' for fault detection
+```python run_fd.py``` for fault detection
